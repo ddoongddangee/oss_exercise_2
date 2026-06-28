@@ -6,9 +6,11 @@
 
 # 김지형
 
-**이메일** : ddoong33552@gmail.com  
-**GitHub** : https://github.com/ddoongddangee
-**포트폴리오** : https://ddoongddangee.github.io
+**이메일:** ddoong33552@gmail.com
+
+**GitHub:** [ddoongddangee](https://github.com/ddoongddangee)
+
+**포트폴리오:** [Future CV](https://ddoongddangee.github.io)
 
 ---
 
@@ -166,4 +168,4 @@
 
 **오픈소스소프트웨어실습 담당 교수님**
 
-광운대학교 정보융합학부
+광운대학교 정보융합학부 
